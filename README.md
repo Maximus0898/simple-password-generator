@@ -1,1 +1,1 @@
-# project001
+# simple-password-generator
